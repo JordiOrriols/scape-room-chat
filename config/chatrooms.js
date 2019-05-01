@@ -1,6 +1,6 @@
 module.exports = [
   {
-    name: 'Terminus',
+    name: 'Woodhouse',
     image: 'chatrooms/terminus.jpg'
   },
   {

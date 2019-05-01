@@ -1,8 +1,8 @@
 module.exports = [
   {
-    name: 'Rick',
-    lastName: 'Grimes',
-    statusText: 'I am the leader!',
+    name: 'Allan',
+    lastName: 'Becker',
+    statusText: 'Online',
     image: 'users/rick.jpg'
   },
   {
