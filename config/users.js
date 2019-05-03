@@ -6,22 +6,16 @@ module.exports = [
     image: 'users/rick.jpg'
   },
   {
-    name: 'Daryl',
-    lastName: 'Dixon',
+    name: 'Xavier',
+    lastName: 'Cerda',
     statusText: 'I like smashing Walkers.',
     image: 'users/daryl.jpg'
   },
   {
-    name: 'Carol',
-    lastName: 'Peletier',
+    name: 'Alvar',
+    lastName: 'Conesa',
     statusText: 'Don\'t mess with me!',
-    image: 'users/carol.jpg'
-  },
-  {
-    name: 'Negan',
-    lastName: '',
-    statusText: 'In a relationship with Lucille.',
-    image: 'users/negan.jpeg'
+    image: 'users/negan.jpg'
   }
 ]
 
